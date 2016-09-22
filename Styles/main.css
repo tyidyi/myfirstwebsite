@@ -1,0 +1,53 @@
+
+.social-media-links {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.social-media-links a {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+    font-family: helvetica;
+    font-size: 12px;
+    letter-spacing: 1.2px;
+    font-weight: bold;
+
+    transition: all 0.3s ease-in-out;
+}
+
+/* 
+LOL im a comment
+*/
+.social-media-links a:hover {
+	background-color: white;
+	color: black;
+	border-color: white;
+}
+
+#main {
+	color: pink;
+}
+
+.main-image {
+	width: 100%;
+}
+
+.main-heading.really-large {
+	color: #000;
+}
+
+.really-large {
+	font-size: 108px;
+}
+
+.main-heading {
+	font-size: 72px;
+	text-transform: uppercase;
+	text-align: center;
+	font-family: Helvetica;
+	text-decoration: underline;
+	color: black;
